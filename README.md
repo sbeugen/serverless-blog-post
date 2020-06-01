@@ -19,7 +19,7 @@ sam local start-api
 The instructions on the screen will tell you which url to use to invoke the api
 
 ### Deploy to AWS
-Make sure to configure your (SAM CLI)[https://aws.amazon.com/serverless/sam/] and (AWS credentials)[https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html] correctly
+Make sure to configure your [SAM CLI](https://aws.amazon.com/serverless/sam/) and [AWS credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html) correctly
 
 ```
 cd serverless-express-example
